@@ -42,7 +42,7 @@ O projeto utiliza uma paleta inspirada na natureza e elementos terrosos:
 
 ## 📦 Veja o projeto rodando aqui!
 
-[**Clique aqui para vê-lo rodando!**](https://luisodr.github.io/projeto/projeto.html/)
+[**Clique aqui para vê-lo rodando!**](https://luisodr.github.io/projeto/projeto.html)
 
 ---
 
