@@ -40,14 +40,9 @@ O projeto utiliza uma paleta inspirada na natureza e elementos terrosos:
 
 ---
 
-## 📦 Como rodar o projeto
+## 📦 Veja o projeto rodando aqui!
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/compostflow.git](https://github.com/seu-usuario/compostflow.git)
-    ```
-2.  **Abra o projeto:**
-    Navegue até a pasta e abra o arquivo `index.html` no seu navegador ou utilize a extensão **Live Server** no VS Code para visualizar as alterações em tempo real.
+[**Clique aqui para vê-lo rodando!**](https://luisodr.github.io/projeto/projeto.html/)https://luisodr.github.io/projeto/projeto.html
 
 ---
 
